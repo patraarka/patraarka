@@ -1,7 +1,7 @@
 ![Cover_Image_Arka](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
 
-# Hi, This is Arka
+<div align="center"><h1>Hi, This is Arka</h1></div>
 
 💻Computer Science Student, CGEC<br/>
 🧠I Build Cool Looking Websites<br/>
