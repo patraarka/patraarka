@@ -1,4 +1,4 @@
-![Cover_Image1](https://cdnb.artstation.com/p/assets/images/images/058/489/579/original/moises-dimas-dawn-riding.gif?1674268261)
+![Cover_Image_Arka](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
 
 # Hi, This is Arka
