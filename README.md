@@ -3,6 +3,8 @@
 
 <div align="center"><h1>Hi, This is Arka</h1></div>
 
+[![An image of @patraarka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patraarka)](https://holopin.io/@patraarka)
+
 💻Computer Science Student, CGEC<br/>
 🧠I Build Cool Looking Websites<br/>
 ✨Photography Enthusiast<br/>
