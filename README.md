@@ -3,8 +3,6 @@
 
 <div align="center"><h1>Hi, This is Arka</h1></div>
 
-[![An image of @patraarka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patraarka)](https://holopin.io/@patraarka)
-
 💻Computer Science Student, CGEC<br/>
 🧠I Build Cool Looking Websites<br/>
 ✨Photography Enthusiast<br/>
@@ -23,6 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=patraarka&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+## 🦖 Holopin Badges
+[![An image of @patraarka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patraarka)](https://holopin.io/@patraarka)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
